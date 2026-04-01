@@ -225,4 +225,4 @@ If you use this code in your research, please cite:
 
 ## License
 
-*[Add license information here — e.g., MIT, Apache 2.0]*
+*This project is licensed under the MIT License.*
