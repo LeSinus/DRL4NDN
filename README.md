@@ -1,9 +1,9 @@
 # DRL4NDN — Deep Reinforcement Learning for Adaptive NDN Forwarding
 
-> **Paper:** *A Systematic Evaluation of Deep Reinforcement Learning for Adaptive NDN Forwarding: A Gym-based Comparative Study*
-> **Journal:** Computer Networks *(under revision)*
+> **Paper:** *A systematic evaluation of deep reinforcement learning for adaptive NDN forwarding: A Gym-based comparative study*
+> **Journal:** Computer Networks
 > **Authors:** *Mustapha Reda Senouci, Badis Djamaa, and Yakoub Mordjana*
-> **Paper link:** *[DOI / preprint link — to be added upon acceptance]*
+> **Paper link:** *https://doi.org/10.1016/j.comnet.2026.112473*
 
 ---
 
@@ -210,14 +210,16 @@ The full grid evaluated in the paper:
 If you use this code in your research, please cite:
 
 ```bibtex
-@article{drl4ndn2025,
-  title   = {A Systematic Evaluation of Deep Reinforcement Learning for Adaptive
-             {NDN} Forwarding: A Gym-based Comparative Study},
-  author  = {Mustapha Reda Senouci, Badis Djamaa, and Yakoub Mordjana},
+@article{drl4ndn2026,
+  title = {A systematic evaluation of deep reinforcement learning for adaptive NDN forwarding: A Gym-based comparative study},
+  author = {Mustapha Reda Senouci and Badis Djamaa and Yakoub Mordjana},
   journal = {Computer Networks},
-  year    = {2026},
-  note    = {Under revision},
-  url     = {[DOI/preprint link]}
+  volume = {286},
+  pages = {112473},
+  year = {2026},
+  issn = {1389-1286},
+  doi = {https://doi.org/10.1016/j.comnet.2026.112473},
+  url = {https://www.sciencedirect.com/science/article/pii/S1389128626004858},
 }
 ```
 
