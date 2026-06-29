@@ -1,8 +1,11 @@
 # DRL4NDN — Deep Reinforcement Learning for Adaptive NDN Forwarding
 
 > **Paper:** *A systematic evaluation of deep reinforcement learning for adaptive NDN forwarding: A Gym-based comparative study*
+> 
 > **Journal:** Computer Networks
+> 
 > **Authors:** *Mustapha Reda Senouci, Badis Djamaa, and Yakoub Mordjana*
+> 
 > **Paper link:** *https://doi.org/10.1016/j.comnet.2026.112473*
 
 ---
